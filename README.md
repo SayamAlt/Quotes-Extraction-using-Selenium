@@ -2,7 +2,7 @@
 
 ##	Description of the Website and Data Targeted for Scraping:
 
-The website quotes.toscrap.com is a hypothetical website which contains a collection of quotes by various authors, along with tags associated with each quote. The targeted data for scraping includes the text of the quotes, the author's name, and the tags associated with each quote. The goal is to automate the process of logging in to the website and extracting this data for further analysis.
+The website [quotes.toscrap.com](http://quotes.toscrape.com/) is a hypothetical website which contains a collection of quotes by various authors, along with tags associated with each quote. The targeted data for scraping includes the text of the quotes, the author's name, and the tags associated with each quote. The goal is to automate the process of logging in to the website and extracting this data for further analysis.
 
 ##	Challenges Encountered and Solutions Implemented:
 
